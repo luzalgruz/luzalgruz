@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Nama saya Valentino adan saya adalah  seorang programer</p>
+<p align="left">Nama saya Valentino dan saya adalah  seorang programer</p>
 
 ###
 
